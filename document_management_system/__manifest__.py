@@ -1,11 +1,11 @@
 # -*- coding: utf-8 -*-
 {
     'license': 'LGPL-3',
-    'name': "Todo",
+    'name': "TodoApp",
     'summary': "Todo",
-    'author': "reco",
-    'website': "reco",
-    'support': 'reco',
+    'author': "Reco",
+    'website': "Reco",
+    'support': 'Reco',
     'category': 'Todo',
     'version': '1.0',
     'depends': ['base','mail'],
