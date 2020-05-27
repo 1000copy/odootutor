@@ -14,8 +14,7 @@
             <field name="model">document.document</field>
             <field name="arch" type="xml">
                 <search>
-                    <field name="name"/>
-                    <field name="parent_id"/>                    
+                    <field name="name"/>                    
                 </search>
             </field>
         </record>
